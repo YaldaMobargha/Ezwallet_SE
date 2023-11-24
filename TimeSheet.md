@@ -1,0 +1,30 @@
+# Timesheet
+
+Report in this table the effort (in person hours) spent per week, per activity, per team.
+[One person hour is the effort of one person working one hour.
+Two person hours is the effort of one person working 2 hours, or 2 persons working one hour. And so on.]
+You have to sum the working hours of each component of the team.
+Count only effort spent on EZWallet (so do not count effort spent in virtual labs, studying, lessons)
+
+These figures will not be used to evaluate neither the project nor the team, they are meant as practical application of basic project management.
+
+|      Week       | requirement engineering | design | coding | unit testing | integration testing | acceptance testing | management | git maven |
+| :-------------: | :---------------------: | :----: | :----: | :----------: | :-----------------: | :----------------: | :--------: | :-------: |
+| mar 27 - apr 2  |                         |        |        |              |                     |                    |            |           |
+|    apr 3 - 9    |           16            |        |        |              |                     |                    |     1      |           |
+|   apr 10 - 16   |            9            |   5    |        |              |                     |                    |            |           |
+|   apr 17 - 23   |            1            |   1    |        |              |                     |                    |            |           |
+| apr 24 - apr 30 |            8            |        |        |              |                     |                    |            |           |
+|    may 1 - 7    |                         |        |   26   |              |                     |                    |     1      |           |
+|   may 8 - 14    |                         |        |   12   |              |                     |                    |            |           |
+|   may 15 - 21   |                         |        |   2    |      15      |         10          |         6          |            |           |
+|   may 22 - 28   |                         |        |   1    |      17      |         21          |         14         |     1      |           |
+| may 29 - jun 4  |                         |        |   1    |      20      |         12          |         3          |            |           |
+|   jun 5 - 11    |                         |        |        |      7       |          5          |         2          |            |           |
+|   jun 12 -18    |                         |        |   1    |      1       |          1          |         1          |            |           |
+|   jun 19 - 25   |                         |        |        |              |                     |                    |            |           |
+| jun 26 - jul 2  |                         |        |        |              |                     |                    |            |           |
+|    jul 3 - 9    |                         |        |        |              |                     |                    |            |           |
+|   jul 10 - 16   |                         |        |        |              |                     |                    |            |           |
+|   jul 17 - 23   |                         |        |        |              |                     |                    |            |           |
+|   jul 24 - 30   |                         |        |        |              |                     |                    |            |           |
